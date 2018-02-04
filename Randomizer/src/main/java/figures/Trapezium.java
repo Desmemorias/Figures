@@ -5,7 +5,6 @@ public class Trapezium extends Triangle {
     private int sideB;
 
     Trapezium(){
-        super();
         this.sideA = Main.random.nextInt(8)+2;
         this.sideB = Main.random.nextInt(8)+2;
     }

@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Random;
 
 // The range of randomly generated integer values for object's parameters is 2-10.
+// I decided to inherit Trapezium form Trianlge only because they have the same field "sideA", actually Trapezium is not Triangle.
 
 public class Main {
 

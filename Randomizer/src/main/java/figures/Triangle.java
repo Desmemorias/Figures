@@ -2,7 +2,7 @@ package figures;
 
 public class Triangle extends Figure {
 
-  private int sideA;
+  protected int sideA;
   private int height;
 
    Triangle() {

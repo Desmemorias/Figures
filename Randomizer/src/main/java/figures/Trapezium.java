@@ -2,7 +2,6 @@ package figures;
 
 public class Trapezium extends Triangle {
 
-    private int sideA;
     private int sideB;
 
     Trapezium(){
